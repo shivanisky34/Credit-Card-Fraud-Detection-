@@ -1,3 +1,8 @@
+
+- **Name:** Shivani
+- **CU Id:** CU26220244
+- **Course:** B.Tech AI/ML
+- **Section:** Sec-C
 # Credit-Card-Fraud-Detection-
 Machine Learning model for detecting credit card fraud using rare-event classification.
 # Credit Card Fraud Detection Engine
